@@ -29,7 +29,9 @@ Enter Bitcoin address background wallpaper (create a ransomware background wallp
 
 Enter the Encryption key (Write it down somewhere you vicitms will not able to recover there files without this)
 
-Enter you  email address  
+Enter you  email address
+
+![Screenshot](https://github.com/ScRiPt1337/Scripted-Ransomware-builder/blob/master/ss.jpeg)
 
 it only for educational purposes  i'm not responcable for any harm or damage
 
