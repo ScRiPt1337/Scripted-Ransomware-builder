@@ -27,4 +27,8 @@ Enter Bitcoin address background wallpaper (create a ransomware background wallp
 
 Enter the Encryption key (Write it down somewhere you vicitms will not able to recover there files without this)
 
-Enter you  email address where victim can contact you to talk about payment and get the Decryption key (Use a tor based email like http://secmailw453j7piv.onion)
+Enter you  email address  
+
+it only for educational purposes  i'm not responcable for any harm or damage
+
+
