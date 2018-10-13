@@ -1,4 +1,5 @@
 
+
    _____           _       __           __   ____                                                              
   / ___/__________(_)___  / /____  ____/ /  / __ \____ _____  _________  ____ ___ _      ______ _________      
   \__ \/ ___/ ___/ / __ \/ __/ _ \/ __  /  / /_/ / __ `/ __ \/ ___/ __ \/ __ `__ \ | /| / / __ `/ ___/ _ \     
@@ -34,5 +35,4 @@ Enter you  email address
 ![Screenshot](https://github.com/ScRiPt1337/Scripted-Ransomware-builder/blob/master/ss.jpeg)
 
 it only for educational purposes  i'm not responcable for any harm or damage
-
 
