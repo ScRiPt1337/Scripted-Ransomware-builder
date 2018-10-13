@@ -21,7 +21,7 @@ HOW TO USE
 
 4.Douable click on builder.exe 
 
-5.Enter the amount you want to charge from victims
+5.Enter the amount 
 
 Enter Bitcoin address background wallpaper (create a ransomware background wallpaper using ms paint or any other tool)
 
