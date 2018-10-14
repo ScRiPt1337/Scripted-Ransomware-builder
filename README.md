@@ -12,7 +12,9 @@
 we hack for india code for india die for india
 
 #requirement
+
 1.64 bit windows
+
 2.python2.7
 
 Contact us : https://www.facebook.com/script1337/
