@@ -37,5 +37,7 @@ Enter you  email address
 
 ![Screenshot](https://github.com/ScRiPt1337/Scripted-Ransomware-builder/blob/master/ss.jpeg)
 
+video tut : https://www.facebook.com/script1337/videos/243505906517699/
+
 it only for educational purposes  i'm not responcable for any harm or damage
 
