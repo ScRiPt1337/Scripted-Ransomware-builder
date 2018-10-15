@@ -37,6 +37,8 @@ Enter the Encryption key (Write it down somewhere you vicitms will not able to r
 
 Enter you  email address
 
+KEY = jaihind
+
 ![Screenshot](https://github.com/ScRiPt1337/Scripted-Ransomware-builder/blob/master/ss.jpeg)
 
 video tut : https://www.facebook.com/script1337/videos/243505906517699/
