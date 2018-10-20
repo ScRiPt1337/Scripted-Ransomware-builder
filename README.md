@@ -37,6 +37,10 @@ Enter the Encryption key (Write it down somewhere you vicitms will not able to r
 
 Enter you  email address
 
+6.Add a ico (required)
+
+Click build
+
 KEY = jaihind
 
 ![Screenshot](https://github.com/ScRiPt1337/Scripted-Ransomware-builder/blob/master/ss.jpeg)
