@@ -11,7 +11,7 @@
                          
 we hack for india code for india die for india
 
-#requirement
+# requirement
 
 1.64 bit windows
 
