@@ -47,5 +47,7 @@ KEY = jaihind
 
 video tut : https://www.facebook.com/Encodedweapon/videos/2075349052524486/
 
+https://www.youtube.com/watch?v=E1mwQBwTU24&t=29s
+
 it only for educational purposes  i'm not responcable for any harm or damage
 
