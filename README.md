@@ -17,7 +17,7 @@ we hack for india code for india die for india
 
 2.python2.7
 
-Contact us : https://www.facebook.com/script1337/
+Contact us : https://www.facebook.com/Encodedweapon/
 
 HOW TO USE
 
@@ -45,7 +45,7 @@ KEY = jaihind
 
 ![Screenshot](https://github.com/ScRiPt1337/Scripted-Ransomware-builder/blob/master/ss.jpeg)
 
-video tut : https://www.facebook.com/script1337/videos/243505906517699/
+video tut : https://www.facebook.com/Encodedweapon/videos/2075349052524486/
 
 it only for educational purposes  i'm not responcable for any harm or damage
 
