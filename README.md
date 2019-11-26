@@ -17,7 +17,7 @@ we hack for india code for india die for india
 
 2.python2.7
 
-Contact us : https://www.facebook.com/Encodedweapon/
+Contact us : # https://www.facebook.com/Script1337/
 
 HOW TO USE
 
